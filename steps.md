@@ -12,3 +12,6 @@
 3. `npm i -S @inrupt/solid-ui-react`
 4. Add SessionProvider with sessionId into app.js
 5. Create loginPage with input and loginButton with oidcIssuer and redirectUrl
+6. Create profile page that shows the webid from the session
+7. Read name (http://www.w3.org/2006/vcard/ns#fn)
+
